@@ -91,8 +91,6 @@ public class WeatherAppGUI extends JFrame {
         windSpeedText.setBounds(310, 500, 85, 55);
         windSpeedText.setFont(new Font("Dialog", Font.PLAIN, 16));
         add(windSpeedText);
-
-        
     }
 
     // create images in our GUI window
